@@ -2,3 +2,7 @@
 *.mp4
 
 *.webm
+
+*.pub
+
+id_rsa2
